@@ -1,0 +1,13 @@
+{
+  "group": "mm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:milk_bucket"
+    }
+  ],
+  "result": {
+    "item": "the_shit_mod:milkbottle",
+    "count": 24
+  }
+}

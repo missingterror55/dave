@@ -1,0 +1,58 @@
+{
+  "mod_elements": [
+    {
+      "name": "Stonks",
+      "type": "painting",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stonks"
+    },
+    {
+      "name": "Shit",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit"
+    },
+    {
+      "name": "Baby",
+      "type": "rangeditem",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "baby"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.the_shit_mod.baby": "Baby",
+      "itemGroup.tabshit": "Shit"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "the_shit_mod",
+    "modName": "the shit mod",
+    "version": "1.0.0",
+    "author": "cygfo, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.theshitmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200347418
+}

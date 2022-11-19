@@ -1,0 +1,21 @@
+{
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2022-11-19 13:43:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2022-11-19 13:43:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-11-19 13:42:49 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

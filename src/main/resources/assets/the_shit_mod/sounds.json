@@ -1,0 +1,12 @@
+{
+  "error": {
+    "category": "neutral",
+    "subtitle": "subtitles.error",
+    "sounds": [
+      {
+        "name": "the_shit_mod:error-sound-djlunatique.com",
+        "stream": false
+      }
+    ]
+  }
+}

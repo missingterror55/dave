@@ -1,0 +1,132 @@
+{
+  "_fv": 34,
+  "_type": "biome",
+  "definition": {
+    "name": "Hell",
+    "groundBlock": {
+      "value": "Blocks.CRIMSON_STEM"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.IRON_BLOCK"
+    },
+    "underwaterBlock": {
+      "value": "Blocks.DIAMOND_BLOCK"
+    },
+    "airColor": {
+      "value": -65536,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -65536,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -65536,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -6750157,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "rainingPossibility": 0.19999999999999998,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": true,
+    "spawnBiomeNether": false,
+    "spawnInCaves": true,
+    "biomeWeight": 10,
+    "grassPerChunk": 4,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 4,
+    "mushroomsPerChunk": 3,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 1,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 7,
+    "treeStem": {
+      "value": "Blocks.CRIMSON_STEM"
+    },
+    "treeBranch": {
+      "value": "Blocks.CRIMSON_HYPHAE"
+    },
+    "treeVines": {
+      "value": "Blocks.REDSTONE_BLOCK"
+    },
+    "treeFruits": {
+      "value": "Blocks.DIAMOND_BLOCK"
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityAxolotl"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "axolotls"
+      },
+      {
+        "entity": {
+          "value": "EntityFrog"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "ambient"
+      }
+    ]
+  }
+}
